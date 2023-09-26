@@ -1,6 +1,10 @@
 # Meu breve currículo
 
 ## Dados pessoais
+
+![Foto de perfil](foto.jpeg).
+
+
 Meu nome é **Isabela Cristina de Jesus**, tenho *21* anos de idade e sou natural da cidade de Bom Sucesso - MG que fica a aproximadademte 40 Km de Lavras - MG.
 
 
